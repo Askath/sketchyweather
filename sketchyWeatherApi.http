@@ -1,4 +1,4 @@
-@sketchyWeatherApi_HostAddress = http://localhost:5192
+@sketchyWeatherApi_HostAddress = http://localhost:8080
 
 GET {{sketchyWeatherApi_HostAddress}}/weatherforecast/
 Accept: application/json
